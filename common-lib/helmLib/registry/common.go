@@ -9,7 +9,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/credentials/ec2rolecreds"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/ecr"
-	http2 "github.com/devtron-labs/common-lib/utils/http"
+	http2 "github.com/devtron-labs/devtron-services/common-lib/utils/http"
 	"helm.sh/helm/v3/pkg/registry"
 	"log"
 	"math/rand"

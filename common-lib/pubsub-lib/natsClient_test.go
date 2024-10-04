@@ -18,7 +18,7 @@ package pubsub_lib
 
 import (
 	"fmt"
-	"github.com/devtron-labs/common-lib/utils"
+	"github.com/devtron-labs/devtron-services/common-lib/utils"
 	"github.com/nats-io/nats.go"
 	"os"
 	"os/exec"

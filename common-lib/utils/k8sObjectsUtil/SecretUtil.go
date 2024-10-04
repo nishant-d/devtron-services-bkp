@@ -19,8 +19,8 @@ package k8sObjectsUtil
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/devtron-labs/common-lib/utils/bean"
-	yamlUtil "github.com/devtron-labs/common-lib/utils/yaml"
+	"github.com/devtron-labs/devtron-services/common-lib/utils/bean"
+	yamlUtil "github.com/devtron-labs/devtron-services/common-lib/utils/yaml"
 	"gopkg.in/yaml.v2"
 	corev1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

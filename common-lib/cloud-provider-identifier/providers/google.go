@@ -21,7 +21,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/devtron-labs/common-lib/cloud-provider-identifier/bean"
+	"github.com/devtron-labs/devtron-services/common-lib/cloud-provider-identifier/bean"
 	"go.uber.org/zap"
 )
 

@@ -17,8 +17,8 @@
 package providerIdentifier
 
 import (
-	"github.com/devtron-labs/common-lib/cloud-provider-identifier/bean"
-	"github.com/devtron-labs/common-lib/cloud-provider-identifier/providers"
+	"github.com/devtron-labs/devtron-services/common-lib/cloud-provider-identifier/bean"
+	"github.com/devtron-labs/devtron-services/common-lib/cloud-provider-identifier/providers"
 	"go.uber.org/zap"
 	"sync"
 )

@@ -2,10 +2,10 @@ package workerPool
 
 import (
 	"fmt"
-	"github.com/devtron-labs/common-lib/constants"
-	"github.com/devtron-labs/common-lib/pubsub-lib/metrics"
-	"github.com/devtron-labs/common-lib/utils/reflectUtils"
-	"github.com/devtron-labs/common-lib/utils/runTime"
+	"github.com/devtron-labs/devtron-services/common-lib/constants"
+	"github.com/devtron-labs/devtron-services/common-lib/pubsub-lib/metrics"
+	"github.com/devtron-labs/devtron-services/common-lib/utils/reflectUtils"
+	"github.com/devtron-labs/devtron-services/common-lib/utils/runTime"
 	"github.com/gammazero/workerpool"
 	"go.uber.org/zap"
 	"reflect"

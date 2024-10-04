@@ -19,7 +19,7 @@ package blob_storage
 import (
 	"context"
 	"fmt"
-	"github.com/devtron-labs/common-lib/utils"
+	"github.com/devtron-labs/devtron-services/common-lib/utils"
 	"go.uber.org/zap"
 	"log"
 	"os"

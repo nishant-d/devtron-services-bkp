@@ -19,8 +19,8 @@ package pubsub_lib
 import (
 	"fmt"
 	"github.com/caarlos0/env"
-	"github.com/devtron-labs/common-lib/pubsub-lib/model"
-	"github.com/devtron-labs/common-lib/utils"
+	"github.com/devtron-labs/devtron-services/common-lib/pubsub-lib/model"
+	"github.com/devtron-labs/devtron-services/common-lib/utils"
 	"github.com/nats-io/nats.go"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"
