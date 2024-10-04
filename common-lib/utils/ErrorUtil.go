@@ -24,6 +24,7 @@ type ApiError struct {
 	InternalMessage   string      `json:"internalMessage,omitempty"`
 	UserMessage       interface{} `json:"userMessage,omitempty"`
 	UserDetailMessage string      `json:"userDetailMessage,omitempty"`
+	TestError         string      `json:"testError"`
 }
 
 func (e *ApiError) Error() string {
