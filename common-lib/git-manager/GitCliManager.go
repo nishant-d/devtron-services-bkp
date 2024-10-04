@@ -18,7 +18,7 @@ package git_manager
 
 import (
 	"fmt"
-	"github.com/devtron-labs/common-lib/git-manager/util"
+	"github.com/devtron-labs/devtron-services/common-lib/git-manager/util"
 	"github.com/sirupsen/logrus"
 	"log"
 	"os"

@@ -1,4 +1,4 @@
-module github.com/devtron-labs/common-lib
+module github.com/devtron-labs/devtron-services/common-lib
 
 go 1.21
 

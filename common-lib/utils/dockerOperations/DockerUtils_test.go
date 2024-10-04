@@ -2,7 +2,7 @@ package dockerOperations
 
 import (
 	"context"
-	"github.com/devtron-labs/common-lib/utils/bean"
+	"github.com/devtron-labs/devtron-services/common-lib/utils/bean"
 	"os"
 	"testing"
 )

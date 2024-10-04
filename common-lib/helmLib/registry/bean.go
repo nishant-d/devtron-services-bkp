@@ -1,7 +1,7 @@
 package registry
 
 import (
-	"github.com/devtron-labs/common-lib/utils/remoteConnection/bean"
+	"github.com/devtron-labs/devtron-services/common-lib/utils/remoteConnection/bean"
 	"helm.sh/helm/v3/pkg/registry"
 	"net/http"
 )

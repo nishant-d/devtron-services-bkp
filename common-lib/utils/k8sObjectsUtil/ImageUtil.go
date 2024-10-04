@@ -17,8 +17,8 @@
 package k8sObjectsUtil
 
 import (
-	"github.com/devtron-labs/common-lib/utils/k8s/commonBean"
-	yamlUtil "github.com/devtron-labs/common-lib/utils/yaml"
+	"github.com/devtron-labs/devtron-services/common-lib/utils/k8s/commonBean"
+	yamlUtil "github.com/devtron-labs/devtron-services/common-lib/utils/yaml"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 )
 

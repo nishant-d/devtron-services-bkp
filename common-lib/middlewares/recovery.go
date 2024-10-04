@@ -19,8 +19,8 @@ package middlewares
 import (
 	"encoding/json"
 	"errors"
-	"github.com/devtron-labs/common-lib/constants"
-	"github.com/devtron-labs/common-lib/pubsub-lib/metrics"
+	"github.com/devtron-labs/devtron-services/common-lib/constants"
+	"github.com/devtron-labs/devtron-services/common-lib/pubsub-lib/metrics"
 	"log"
 	"net/http"
 	"runtime/debug"

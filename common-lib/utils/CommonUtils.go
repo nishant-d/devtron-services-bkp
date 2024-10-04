@@ -18,8 +18,8 @@ package utils
 
 import (
 	"fmt"
-	"github.com/devtron-labs/common-lib/git-manager/util"
-	"github.com/devtron-labs/common-lib/utils/bean"
+	"github.com/devtron-labs/devtron-services/common-lib/git-manager/util"
+	"github.com/devtron-labs/devtron-services/common-lib/utils/bean"
 	"log"
 	"math/rand"
 	"os"

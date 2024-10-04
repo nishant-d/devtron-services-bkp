@@ -17,7 +17,7 @@
 package k8s
 
 import (
-	"github.com/devtron-labs/common-lib/utils"
+	"github.com/devtron-labs/devtron-services/common-lib/utils"
 	"testing"
 )
 

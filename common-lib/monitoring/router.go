@@ -17,8 +17,8 @@
 package monitoring
 
 import (
-	"github.com/devtron-labs/common-lib/monitoring/pprof"
-	"github.com/devtron-labs/common-lib/monitoring/statsViz"
+	"github.com/devtron-labs/devtron-services/common-lib/monitoring/pprof"
+	"github.com/devtron-labs/devtron-services/common-lib/monitoring/statsViz"
 	"github.com/gorilla/mux"
 	"go.uber.org/zap"
 )

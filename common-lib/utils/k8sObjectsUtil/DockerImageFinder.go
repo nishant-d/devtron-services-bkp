@@ -17,7 +17,7 @@
 package k8sObjectsUtil
 
 import (
-	k8sCommonBean "github.com/devtron-labs/common-lib/utils/k8s/commonBean"
+	k8sCommonBean "github.com/devtron-labs/devtron-services/common-lib/utils/k8s/commonBean"
 	appsV1 "k8s.io/api/apps/v1"
 	batchV1 "k8s.io/api/batch/v1"
 	coreV1 "k8s.io/api/core/v1"

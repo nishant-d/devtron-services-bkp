@@ -17,7 +17,7 @@
 package metrics
 
 import (
-	"github.com/devtron-labs/common-lib/constants"
+	"github.com/devtron-labs/devtron-services/common-lib/constants"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"
 )

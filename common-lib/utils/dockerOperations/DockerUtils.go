@@ -8,7 +8,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/ecr"
-	"github.com/devtron-labs/common-lib/utils/bean"
+	"github.com/devtron-labs/devtron-services/common-lib/utils/bean"
 	"github.com/docker/docker/client"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/oauth2/google"
